@@ -2,7 +2,7 @@
 Hi , My name is John
 I'm working on logistics as manager 
 My Hobby is programming  
-currently learning kotlin - js,html,css 
+currently learning kotlin - js,html,css - React, ReactNative
 I also used R for a projects
 I'm looking to collaborate on any project that uses the languages mentioned before with the end goal on obtaining experience in the field
 
